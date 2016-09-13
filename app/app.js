@@ -1,5 +1,5 @@
 var angular = require('angular');
-require('angular-ui-bootstrap')
+require('angular-ui-bootstrap');
 angular.module('dashboard', ['ui.bootstrap']);
 
 
